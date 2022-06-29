@@ -1,5 +1,5 @@
 from itertools import chain
-from decorator1 import logger, logger_with_path
+from decorators.decorator1 import logger_with_path
 
 
 nested_list = [
@@ -7,6 +7,7 @@ nested_list = [
     ['d', 'e', 'f', 'h', False],
     [1, 2, None],
 ]
+
 
 @logger_with_path(path='/home/maxim/git_projects/decors/logs/logs.log')
 def one_list(ls: list) -> list:

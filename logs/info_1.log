@@ -1,4 +1,4 @@
-[datetime: 2022-06-30 00:58:58.379197,
+[datetime: 2022-06-30 01:41:58.367215,
 name func: some_func,
 arguments: (2, 3) and {},
 was returned: 2 * 3 = 6]

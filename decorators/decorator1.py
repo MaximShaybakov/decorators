@@ -1,6 +1,6 @@
 from datetime import datetime
 from functools import wraps
-import os
+
 
 # simple decorator
 def logger(old_func):

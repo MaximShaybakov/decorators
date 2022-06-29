@@ -1,4 +1,4 @@
-[datetime: 2022-06-30 01:33:41.054982,
+[datetime: 2022-06-30 01:42:10.140905,
 name func: one_list,
 arguments: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) and {},
 was returned: ['a', 'b', 'c', 'd', 'e', 'f', 'h', False, 1, 2, None]]
